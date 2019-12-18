@@ -1,4 +1,4 @@
-# Best_infocus_image_microscopy_stack
+# Best_infocus_image_microscopy_stack_Tamura_Coefficient
 
 This matlab code implements Tamura Coefficient to find out the best infocus image in the stack of the images.
 
